@@ -1,3 +1,4 @@
+![image](https://repodoc-ai.dev/logo.png)
 # Business Requirements Document (BRD)
 ## Project: repodoc-ai
 
