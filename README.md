@@ -3,7 +3,6 @@
 
 # 🚀 RepoDoc AI - Stop Writing Documentation. Start Generating It.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue.svg)](https://repodoc-ai.dev)
 [![Free to Use](https://img.shields.io/badge/Free-100%25-green.svg)](https://repodoc-ai.dev/signup)
 
