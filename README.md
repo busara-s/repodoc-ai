@@ -5,6 +5,7 @@
 
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue.svg)](https://repodoc-ai.dev)
 [![Free to Use](https://img.shields.io/badge/Free-100%25-green.svg)](https://repodoc-ai.dev/signup)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/busara-s/repo-to-doc)
 
 > Transform any GitHub repository into professional Business Requirements, Technical Documentation, Test Strategy and README documents in under 5 minutes. **Completely free. No manual work required.**
 
