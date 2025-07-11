@@ -5,7 +5,8 @@
 
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue.svg)](https://repodoc-ai.dev)
 [![Free to Use](https://img.shields.io/badge/Free-100%25-green.svg)](https://repodoc-ai.dev/signup)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/busara-s/repo-to-doc)
+
+<a href='https://www.saashub.com/repodoc-ai?utm_source=badge&utm_campaign=badge&utm_content=repodoc-ai&badge_variant=color&badge_kind=approved' target='_blank'><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="Repodoc-AI badge" style="max-width: 150px;"/></a>
 
 > Transform any GitHub repository into professional Business Requirements, Technical Documentation, Test Strategy and README documents in under 5 minutes. **Completely free. No manual work required.**
 
