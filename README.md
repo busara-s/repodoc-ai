@@ -1,6 +1,3 @@
-![image](https://repodoc-ai.dev/logo.png)
-
-
 # 🚀 RepoDoc AI - Stop Writing Documentation. Start Generating It.
 
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue.svg)](https://repodoc-ai.dev)
